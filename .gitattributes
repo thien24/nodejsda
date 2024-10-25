@@ -3,3 +3,5 @@
 /.yarn/plugins/**/*  binary
 /.pnp.*              binary linguist-generated
 *.ejs linguist-vendored
+*.css linguist-vendored
+
